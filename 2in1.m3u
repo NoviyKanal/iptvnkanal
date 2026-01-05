@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:0,Беларусь 1
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:0,ОНТ
+#EXTGRP:Беларусь
+https://edge54.dc.beltelecom.by/ont/_definst_/ont/chunklist_w2010286486.m3u8
+#EXTINF:0,СТВ
+#EXTGRP:Беларусь
+http://194.158.222.36:6103
+#EXTINF:0,Мир
+#EXTGRP:Беларусь
+http://194.158.222.36:6104
+#EXTINF:0,Первый информационный
+#EXTGRP:Беларусь
+http://194.158.222.36:6105
+#EXTINF:0,РТР Беларусь
+#EXTGRP:Беларусь
+http://194.158.222.36:6106
+#EXTINF:0,НТВ Беларусь
+#EXTGRP:Беларусь
+http://194.158.222.36:6107
+#EXTINF:0,Беларусь 2
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:0,Беларусь 3
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:0,Беларусь 5
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:0,Беларусь 24
+#EXTGRP:Беларусь
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1,Первый канал
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1,Россия 1
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1,НТВ
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1,Пятый канал
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1,Россия 24
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1,Карусель
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:-1,ОТР
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1,ТВЦ
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1,СПАС
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1,Домашний
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1,ТВ3
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1,Пятница!
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1,Звезда
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1,МИР
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1,МУЗ ТВ
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1,Вести ФМ
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1,Маяк
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1, Радио России
+#EXTGRP:Россия
+#EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
+http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
