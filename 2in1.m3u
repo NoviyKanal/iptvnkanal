@@ -119,3 +119,7 @@ http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTGRP:Россия
 #EXTVLCOPT:Dalvik/2.1.0 (Linux; U; Android 9; WinkBox 2 Build/PSV1.210329.021)
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:0,РБК
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:0,СТС LOVE
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
