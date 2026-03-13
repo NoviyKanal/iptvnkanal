@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,BKLNOW (HLS)
+http://192.168.1.7:8080/hls/bklnow/index.m3u8
+#EXTINF:0,BKLNOW (RTMP)
+rtmp://192.168.1.7/live/bklnow
